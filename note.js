@@ -15,7 +15,7 @@ addBtn.addEventListener('click', function (e) {
   addTxt.value = ''
   console.log(notesObj)
 
-  showNotes();
+  showNotes(); 
 })
 //  Show Notes from local storage
 
